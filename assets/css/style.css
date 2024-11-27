@@ -88,12 +88,18 @@ footer {
 
 .grid {
     grid-column-gap: 2rem;
-
+    a {
+        display: block;
+    }
+    a:hover img {
+        opacity: .5;
+    }
     > div {
         margin-bottom: 2rem;
     }
     img {
         margin-bottom: 1.5rem;
+        transition: all ease 0.3s;
     }
     h2 {
         color: var(--pico-color-slate-650);

@@ -1,0 +1,167 @@
+/*--------------
+COLORS
+--------------*/
+
+:root {
+    --pico-color-slate-950: #0e1118;
+    --pico-color-slate-900: #181c25;
+    --pico-color-slate-850: #202632;
+    --pico-color-slate-800: #2a3140;
+    --pico-color-slate-750: #333c4e;
+    --pico-color-slate-700: #3d475c;
+    --pico-color-slate-650: #48536b;
+    --pico-color-slate-600: #525f7a;
+    --pico-color-slate-550: #5d6b89;
+    --pico-color-slate-500: #687899;
+    --pico-color-slate-450: #7385a9;
+    --pico-color-slate-400: #8191b5;
+    --pico-color-slate-350: #909ebe;
+    --pico-color-slate-300: #a0acc7;
+    --pico-color-slate-250: #b0b9d0;
+    --pico-color-slate-200: #bfc7d9;
+    --pico-color-slate-150: #cfd5e2;
+    --pico-color-slate-100: #dfe3eb;
+    --pico-color-slate-50: #eff1f4;
+    --pico-color-slate: #525f7a;
+}
+
+.pico-color-slate-950 {
+    color: var(--pico-color-slate-950);
+}
+.pico-color-slate-900 {
+    color: var(--pico-color-slate-900);
+}
+.pico-color-slate-850 {
+    color: var(--pico-color-slate-850);
+}
+.pico-color-slate-800 {
+    color: var(--pico-color-slate-800);
+}
+.pico-color-slate-750 {
+    color: var(--pico-color-slate-750);
+}
+.pico-color-slate-700 {
+    color: var(--pico-color-slate-700);
+}
+.pico-color-slate-650 {
+    color: var(--pico-color-slate-650);
+}
+.pico-color-slate-600 {
+    color: var(--pico-color-slate-600);
+}
+.pico-color-slate-550 {
+    color: var(--pico-color-slate-550);
+}
+.pico-color-slate-500 {
+    color: var(--pico-color-slate-500);
+}
+.pico-color-slate-450 {
+    color: var(--pico-color-slate-450);
+}
+.pico-color-slate-400 {
+    color: var(--pico-color-slate-400);
+}
+.pico-color-slate-350 {
+    color: var(--pico-color-slate-350);
+}
+.pico-color-slate-300 {
+    color: var(--pico-color-slate-300);
+}
+.pico-color-slate-250 {
+    color: var(--pico-color-slate-250);
+}
+.pico-color-slate-200 {
+    color: var(--pico-color-slate-200);
+}
+.pico-color-slate-150 {
+    color: var(--pico-color-slate-150);
+}
+.pico-color-slate-100 {
+    color: var(--pico-color-slate-100);
+}
+.pico-color-slate-50 {
+    color: var(--pico-color-slate-50);
+}
+.pico-color-slate {
+    color: var(--pico-color-slate);
+}
+.pico-background-slate-950 {
+    background-color: var(--pico-color-slate-950);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-900 {
+    background-color: var(--pico-color-slate-900);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-850 {
+    background-color: var(--pico-color-slate-850);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-800 {
+    background-color: var(--pico-color-slate-800);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-750 {
+    background-color: var(--pico-color-slate-750);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-700 {
+    background-color: var(--pico-color-slate-700);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-650 {
+    background-color: var(--pico-color-slate-650);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-600 {
+    background-color: var(--pico-color-slate-600);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-550 {
+    background-color: var(--pico-color-slate-550);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-500 {
+    background-color: var(--pico-color-slate-500);
+    color: var(--pico-color-light);
+}
+.pico-background-slate-450 {
+    background-color: var(--pico-color-slate-450);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-400 {
+    background-color: var(--pico-color-slate-400);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-350 {
+    background-color: var(--pico-color-slate-350);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-300 {
+    background-color: var(--pico-color-slate-300);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-250 {
+    background-color: var(--pico-color-slate-250);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-200 {
+    background-color: var(--pico-color-slate-200);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-150 {
+    background-color: var(--pico-color-slate-150);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-100 {
+    background-color: var(--pico-color-slate-100);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate-50 {
+    background-color: var(--pico-color-slate-50);
+    color: var(--pico-color-dark);
+}
+.pico-background-slate {
+    background-color: var(--pico-color-slate);
+    color: var(--pico-color-light);
+}
